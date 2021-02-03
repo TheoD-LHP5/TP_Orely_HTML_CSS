@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#annonceMarmara{
+    width: 450px;
+    border: 1px solid grey;
+    padding: 20px;
+    margin: 20px;
+}
+
+#photoHotel{
+    width: 100%;
+}
+
+#logoMarmara{
+    width: 80px;
+}
+
+.smallM{
+    width: 20px;
+    height: 20px;
+}
+
+.nomHotelLogoLocalisation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#noteAvis{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#avis{
+    padding-left: 5px;
+}
+
+#note{
+    color: red;
+    font-size: 20px;
+}
+
+.price{
+    color: red;
+}
+
+#etoile{
+    display: flex;
+}
+
+#test
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.colorBlue
+{
+    color: #70CBF4;
+}
+
+.size-1
+{
+    font-size: 120%;
+}
+
+.blueAvis{
+    color: #252A8A;
+}
+
+#prix{
+    display: flex;
+}
+
+#prixPrincipal{
+    display: flex;
+    align-items: center;
+}
+
+#ttcPers{
+    display: flex;
+    flex-direction: column;
+    color: red;
+}
+
+#euros459{
+    color: red;
+    font-size: 200%;
+    align-items: baseline;
+}
+
+
+.sansFraisPrix{
+    display: flex;
+    align-items: center;
+}
+
+#aulieu{
+    color: gray;
+}
+
+#prixavant{
+    text-decoration: line-through;
+}
+
+#en3fois{
+    color: gray;
+}
+
+h3{
+    color: gray;
+}
+
+h2{
+    color: #092A5E;
+}
+
+.durée{
+    color: gray;
+}
+
+#pourcentage
+{
+    padding: 10px;
+    background-color: red;
+    margin-left: 10px;
+    color: white;
+    font-weight: bold;
+
+}
